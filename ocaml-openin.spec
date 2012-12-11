@@ -46,3 +46,10 @@ rm -rf %{buildroot}
 %{_libdir}/ocaml/openin/META
 %{_libdir}/ocaml/openin/pa_openin.cmo
 
+
+
+%changelog
+* Sun Aug 09 2009 Florent Monnier <blue_prawn@mandriva.org> 20070524-1mdv2010.0
++ Revision: 412913
+- spec file made from the fedora's one by Richard Jones
+
