@@ -4,7 +4,7 @@
 Summary:	OCaml syntax to locally open modules
 Name:		ocaml-openin
 Version:	20070524
-Release:	2
+Release:	3
 License:	Public Domain
 Group:		Development/Other
 Url:		http://alain.frisch.fr/soft#openin
