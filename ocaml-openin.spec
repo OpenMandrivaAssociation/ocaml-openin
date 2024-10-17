@@ -7,7 +7,7 @@ Version:	20070524
 Release:	3
 License:	Public Domain
 Group:		Development/Other
-Url:		http://alain.frisch.fr/soft#openin
+Url:		https://alain.frisch.fr/soft#openin
 Source0:	http://alain.frisch.fr/info/openin-%{version}.tar.gz
 Source1:	openin-META
 BuildRequires:	camlp4
