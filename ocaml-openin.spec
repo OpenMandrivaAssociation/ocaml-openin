@@ -10,6 +10,7 @@ Group:		Development/Other
 Url:		https://alain.frisch.fr/soft#openin
 Source0:	http://alain.frisch.fr/info/openin-%{version}.tar.gz
 Source1:	openin-META
+BuildRequires:	make
 BuildRequires:	camlp4
 BuildRequires:	ocaml
 BuildRequires:	ocaml-findlib
